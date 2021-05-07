@@ -162,9 +162,10 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="12" name="piano" width="30" height="20" opacity="0">
+ <layer id="12" name="piano" width="30" height="20" opacity="0.38">
   <properties>
-   <property name="playAudio" value="music/tango-argentino.mp3"/>
+   <property name="loopAudio" type="bool" value="true"/>
+   <property name="playAudio" value="/music/tango-argentino.mp3"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

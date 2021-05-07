@@ -98,12 +98,17 @@
          "height":20,
          "id":12,
          "name":"piano",
-         "opacity":0,
+         "opacity":0.38,
          "properties":[
+                {
+                 "name":"loopAudio",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"music\/tango-argentino.mp3"
+                 "value":"\/music\/tango-argentino.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

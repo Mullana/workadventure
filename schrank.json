@@ -42,12 +42,12 @@
          "height":4,
          "id":4,
          "name":"exit",
-         "opacity":0,
+         "opacity":0.41,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"zimmer.json"
+                 "value":"zimmer.json#startSchrank"
                 }],
          "type":"tilelayer",
          "visible":true,

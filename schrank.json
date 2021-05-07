@@ -45,9 +45,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/zimmer.json"
+                 "value":"zimmer.json"
                 }],
          "type":"tilelayer",
          "visible":true,

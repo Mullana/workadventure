@@ -162,9 +162,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="10" name="exitSchrank" width="30" height="20" opacity="0">
+ <layer id="10" name="exitSchrank" width="30" height="20">
   <properties>
-   <property name="exitUrl" value="/schrank.json"/>
+   <property name="exitUrl" value="schrank.json"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

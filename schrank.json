@@ -42,7 +42,7 @@
          "height":4,
          "id":4,
          "name":"exit",
-         "opacity":0.41,
+         "opacity":0,
          "properties":[
                 {
                  "name":"exitUrl",
